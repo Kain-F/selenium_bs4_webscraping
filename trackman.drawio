@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T16:37:49.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rjok3PT07mLfS4LoEX_S" version="20.8.20" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-16T16:39:10.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3oDMnHkoZCNPFc4XUvbE" version="20.8.20" type="github" pages="7">
   <diagram name="Input Data Model" id="0wDll3bY0JhVwaOHB7e4">
     <mxGraphModel dx="1332" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LVjtYKDy3ka2iPWdeuFf" name="STEP 1 -- TRANSFORM">
-    <mxGraphModel dx="4263" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4847" dy="2473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1029,7 +1029,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dgVjzDBISJwIlqAjie53-202" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=15;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2290" y="220" width="2220" height="1810" as="geometry" />
+          <mxGeometry x="-20" y="100" width="2220" height="1810" as="geometry" />
         </mxCell>
         <mxCell id="dgVjzDBISJwIlqAjie53-203" value="&lt;h1&gt;STEP 1&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="950" y="1930" width="190" height="80" as="geometry" />
@@ -1038,7 +1038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YhWZP4UhxhopI2S0RZpd" name="STEP 2 -- CREATE DIMENSIONS">
-    <mxGraphModel dx="1713" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3997" dy="2473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2486,7 +2486,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HhRTs58-yB1a_VfubHED" name="notes + explanation">
-    <mxGraphModel dx="1142" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1411" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
